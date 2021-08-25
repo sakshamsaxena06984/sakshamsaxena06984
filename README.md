@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamsaxena06984&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamsaxena06984" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
-
-- 👨‍💻 All of my projects are available at [__________________________](__________________________)
 
 - 📫 How to reach me **saks123ham@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/130MLjkzSWgaqPwqliMg8RfgYHmot6Pgh/view?usp=sharing](https://drive.google.com/file/d/130MLjkzSWgaqPwqliMg8RfgYHmot6Pgh/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
