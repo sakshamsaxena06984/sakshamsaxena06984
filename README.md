@@ -26,12 +26,6 @@
   <a href="https://spark.apache.org/" target="_blank"> <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="90" height="40"/>
 </a>
-<a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://spark.apache.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="90" height="40"/>
-</a>
 <a href="https://cloud.google.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/cloud_google/cloud_google-icon.svg" alt="gcp" width="40" height="40"/>
 </a>
